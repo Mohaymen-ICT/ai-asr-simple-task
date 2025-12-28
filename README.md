@@ -6,7 +6,7 @@ This repository contains a sample audio file for a practical interview question 
 You are required to create a complete Google Colab notebook that processes the provided audio file and outputs the transcribed text. The notebook should demonstrate your skills in data handling, model selection/implementation, and inference.
 
 ## Task Description
-1. **Input**: Use the sample audio file provided in this repository: `sample_audio.wav` (or replace with the actual filename if different). This is a short voice recording in Persian for testing ASR capabilities.
+1. **Input**: Use the sample audio file provided in this repository: `sample_audio.mp3` (or replace with the actual filename if different). This is a short voice recording in Persian for testing ASR capabilities.
 
 2. **Requirements**:
    - Implement an ASR algorithm from scratch or using pre-trained models (e.g., via libraries like Hugging Face Transformers, SpeechRecognition, or Whisper by OpenAI). You may fine-tune if necessary, but keep it efficient for Colab.
@@ -37,7 +37,7 @@ You are required to create a complete Google Colab notebook that processes the p
 ## Getting Started
 1. Fork or clone this repository.
 2. Open Google Colab: Go to [colab.research.google.com](https://colab.research.google.com) and upload/create your notebook.
-3. Download the `sample_audio.wav` from this repo and upload it to your Colab session (or access via GitHub URL).
+3. Download the `sample_audio.mp3` from this repo and upload it to your Colab session (or access via GitHub URL).
 4. Implement and test your ASR pipeline.
 
 Good luck! We're excited to see your solution.
